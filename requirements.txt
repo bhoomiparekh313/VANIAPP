@@ -1,4 +1,8 @@
 streamlit
+speechrecognition
+scikit-learn
 streamlit-folium
 folium
-geocoder
+streamlit-js-eval
+streamlit-autorefresh
+pyaudio
